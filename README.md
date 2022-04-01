@@ -1,4 +1,5 @@
 # picture-to-desmos
+https://www.youtube.com/watch?v=qpqPPd16rwg - video demonstration of the project.
 turning a picture to desmos art using python
 
 Install all requirements by calling pip install -r requirements.txt
